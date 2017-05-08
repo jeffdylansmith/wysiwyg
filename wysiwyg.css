@@ -1,0 +1,11 @@
+.bordered {
+  border: 2px dotted purple;
+}
+
+article:nth-child(odd) {
+    background: lightblue;
+}
+
+article:nth-child(even) {
+    background: lightyellow;
+}
